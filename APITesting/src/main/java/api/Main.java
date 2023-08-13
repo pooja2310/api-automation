@@ -1,4 +1,4 @@
-package API;
+package api;
 import files.Payload;
 import io.restassured.RestAssured;
 import io.restassured.path.json.JsonPath;
