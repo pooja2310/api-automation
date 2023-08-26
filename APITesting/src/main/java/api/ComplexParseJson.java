@@ -3,7 +3,7 @@ package api;
 import files.Payload;
 import io.restassured.path.json.JsonPath;
 
-public class ComplexPasseJson
+public class ComplexParseJson
 {
 	public static void main(String args[])
 	{
